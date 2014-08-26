@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome to Jing0's blog!
-description: This is Jing0's blog.I share coding,reading,music and some thoughts about life here.
-keywords: iOS,Mac,iPhone,Apple,Code,Program,Eliza,C,Go,Github,Vim,Music,Reading,Jackie Kuo,音乐，编程，读书，阅读
+title: Welcome to Xiangxiaobao's blog!
+description: This is Xiangxiaobao's blog.I share coding,reading,music and some thoughts about life here.
+keywords: Mac,iPhone,Apple,Code,Program,Github,Vim,Music,Reading,,音乐，编程，读书，阅读
 tagline: --read & think
 ---
 {% include JB/setup %}
