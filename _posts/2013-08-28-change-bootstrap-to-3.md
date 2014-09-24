@@ -55,8 +55,7 @@ css和js还是老样子，只要覆盖原来的就行了，这里关键说一下
 Bootstrap的出现，一定程度上统一了前端杂乱的氛围，简化了开发流程，降低了开发难度，简直就是老少皆宜。对于不是做前端，却要偶尔写前端的孩纸，指明了一条道路。对于做前端的开发者来说，又有了一个较为标准化的学习对象，可以加快学习速度，少走一些弯路。
 
 现在阅读字体和风格都不怎么舒服，待优化，下次再弄吧。
-
-```c
+{% highlight c %}
 /* hello world demo */
 #include <stdio.h>
 int main(int argc, char **argv)
@@ -64,4 +63,4 @@ int main(int argc, char **argv)
     printf("Hello, World!\n");
     return 0;
 }
-```
+{% endhighlight %}
