@@ -56,7 +56,7 @@ Bootstrap的出现，一定程度上统一了前端杂乱的氛围，简化了�
 
 现在阅读字体和风格都不怎么舒服，待优化，下次再弄吧。
 
-{\% highlight \%}
+{% highlight html %}
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
@@ -71,5 +71,5 @@ Bootstrap的出现，一定程度上统一了前端杂乱的氛围，简化了�
         </div>
       </div>
     </div>
-{\% highlight \%}
+{% endhighlight %}
 
