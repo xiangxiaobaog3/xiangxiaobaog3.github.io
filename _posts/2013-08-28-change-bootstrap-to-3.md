@@ -56,7 +56,20 @@ Bootstrap的出现，一定程度上统一了前端杂乱的氛围，简化了�
 
 现在阅读字体和风格都不怎么舒服，待优化，下次再弄吧。
 
-
-
-
+{\%
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-narrow">
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <ul class="nav">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+            <li><a href="https://github.com/jing0" target="_blank">GitHub</a></li>
+            <li><a href="http://jackiekuo.com/about.html">About Me</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+\%}
 
